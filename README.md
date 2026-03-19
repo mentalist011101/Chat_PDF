@@ -71,6 +71,3 @@ Les contributions sont les bienvenues ! N’hésitez pas à ouvrir une issue ou 
 
 [Licence MIT](LICENSE)
 
----
-
-N’hésitez pas à adapter ce modèle selon les spécificités de votre projet ! Si vous souhaitez un texte encore plus personnalisé, partagez les détails de l’implémentation ou des fonctionnalités.
